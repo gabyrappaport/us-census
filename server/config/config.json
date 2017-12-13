@@ -1,0 +1,5 @@
+{
+  "limit":100,
+  "dbPath":"./db/us-census.db",
+  "dbTable":"census_learn_sql"
+}
